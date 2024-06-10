@@ -55,6 +55,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please contact me at keerthana.p2024@gmail.com
 
----
 
-This README file provides a comprehensive overview of the project, including its features, technologies used, installation instructions, and usage guidelines. Feel free to customize it further based on your specific project details and preferences.
